@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Baekjoon_Algorithm", "Baekjoon_Algorithm\Baekjoon_Algorithm.vcxproj", "{F0D17E9E-408C-4D00-AEE2-5B696D8BFD9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0D17E9E-408C-4D00-AEE2-5B696D8BFD9C}.Debug|x64.ActiveCfg = Debug|x64
+		{F0D17E9E-408C-4D00-AEE2-5B696D8BFD9C}.Debug|x64.Build.0 = Debug|x64
+		{F0D17E9E-408C-4D00-AEE2-5B696D8BFD9C}.Debug|x86.ActiveCfg = Debug|Win32
+		{F0D17E9E-408C-4D00-AEE2-5B696D8BFD9C}.Debug|x86.Build.0 = Debug|Win32
+		{F0D17E9E-408C-4D00-AEE2-5B696D8BFD9C}.Release|x64.ActiveCfg = Release|x64
+		{F0D17E9E-408C-4D00-AEE2-5B696D8BFD9C}.Release|x64.Build.0 = Release|x64
+		{F0D17E9E-408C-4D00-AEE2-5B696D8BFD9C}.Release|x86.ActiveCfg = Release|Win32
+		{F0D17E9E-408C-4D00-AEE2-5B696D8BFD9C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52B6A819-E3E3-48A4-B366-A6D85F8B8615}
+	EndGlobalSection
+EndGlobal
